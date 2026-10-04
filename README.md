@@ -80,3 +80,20 @@ python main_unimodality.py
 ```bash
 python main_fd_cmkd.py
 ```
+
+
+---
+
+## 参考文献
+
+```bibtex
+@inproceedings{liu2026distilling,
+  title={Distilling cross-modal knowledge via feature disentanglement},
+  author={Liu, Junhong and Zhang, Yuan and Huang, Tao and Xu, Wenchao and Yang, Renyu},
+  booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
+  volume={40},
+  number={28},
+  pages={23739--23747},
+  year={2026}
+}
+```
